@@ -1,135 +1,110 @@
-<div align="center">
+Aditya
 
-Hey, I'm Aditya 👋
+Building practical AI products, digital experiences, and software — with a strong interest in cybersecurity and technology that actually ships.
 
-AI × Cybersecurity × Product Building
+Hi, I am Aditya. I build things, experiment with ideas, and enjoy turning ambitious concepts into products people can actually use.
 
-I build practical AI products, digital experiences, and software that turn ambitious ideas into things people can actually use.
+Most of my work lives around:
 
-<a href="https://github.com/aDiii1633">
-  <img src="https://img.shields.io/badge/GitHub-aDiii1633-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/aditya-kumar-00b36637b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/btwimadii">
-  <img src="https://img.shields.io/badge/X-btwimadii-000000?style=for-the-badge&logo=x" alt="X"/>
-</a>
+Artificial Intelligence - AI applications, intelligent assistants, agentic workflows, and practical systems built around real-world problems.
 
-</div>
+Cybersecurity - security-focused development, secure product thinking, and exploring how intelligent systems can be built responsibly.
 
-🧠 About Me
+Developer tools & software - full-stack applications, automation, useful tools, and systems that remove friction.
 
-class Aditya:
-    education = "IIT Patna"
-    focus = ["Artificial Intelligence", "Cybersecurity", "Software", "Product Design"]
+Builder side quests - UI/UX experiments, product concepts, hackathons, creative projects, and whatever technical rabbit hole gets interesting.
 
-    mindset = "Learn → Build → Experiment → Improve"
+Current Stuff
 
-    interests = [
-        "AI-powered products",
-        "Agentic systems",
-        "Cybersecurity",
-        "Developer tools",
-        "Digital experiences",
-        "Rapid experimentation",
-    ]
+SafeCareer AI
 
-    currently = "Turning ambitious ideas into useful products."
+Finding a career path should feel less confusing and more actionable.
 
-I'm currently studying at Indian Institute of Technology, Patna (IIT Patna) in AI & Cybersecurity.
+SafeCareer AI is an AI-powered career exploration platform designed to help users understand their options and make better-informed career decisions.
 
-I enjoy working at the intersection of AI, technology, design, and experimentation — whether that means building a product from scratch, shaping a clean interface, exploring an idea, or solving a difficult technical problem.
+Election Process Education Assistant
 
-I believe the best way to learn is to build things that actually work.
+Understanding the electoral process should not require digging through scattered information.
 
-⚡ What I Like Building
+Election Process Education Assistant is an AI-powered platform designed to make information about India's electoral process easier to understand, navigate, and access.
 
-🤖 AI applications and intelligent tools
-
-🧠 Agentic workflows and automation
-
-🔐 Security-focused software and experiments
-
-💻 Full-stack products and developer tools
-
-🎨 Clean, useful digital experiences
-
-🚀 Fast prototypes that can evolve into real products
-
-🛠️ Tech I Work With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,html,css,tailwind,git,github,docker,supabase,vercel,vscode&perline=8" />
-</p>
-
-Areas
-
-Artificial Intelligence Machine Learning Cybersecurity Web Development Automation Product Building UI/UX Experimentation
-
-🚀 Featured Work
-
-Here are some of the projects and experiments I'm building or exploring:
+Featured Work
 
 Project
 
 What it is
 
-🧑‍💻 Safe Career AI
+SafeCareer AI
 
-AI-powered career exploration and assistance
+AI-powered career exploration and guidance platform.
 
-🗳️ Election Education Assistant
+Election Process Education Assistant
 
-An educational AI experience around election-related information
+AI-powered educational platform for understanding India's electoral process.
 
-👁️ iQOO Sixth Sense
+iQOO Sixth Sense
 
-An interactive technology/product concept
+Technology and product concept built around an interactive digital experience.
 
-🤖 Comet Agent
+Comet Agent
 
-An AI-agent focused experiment
+An AI-agent focused experiment exploring practical agentic workflows.
 
-🖤 Carbon Soul
+Carbon Soul
 
-A digital product experiment
+A creative technology and digital product experiment.
 
-Explore all of my work on GitHub.
+TUTEDUDE-PYTHON
 
-🔭 Currently Exploring
+Python assignments, tasks, and learning experiments.
 
-AI Agents              ████████████████████
-LLM Applications       ███████████████████░
-Cybersecurity          ██████████████████░░
-Product Engineering    ███████████████████░
-UI / UX                ████████████████░░░░
-New Experiments        ████████████████████
+Education
 
-I'm especially interested in how AI can become more useful, reliable, secure, and integrated into real products.
+Indian Institute of Technology, Patna (IIT Patna)
+Undergraduate student in AI & Cybersecurity.
 
-🎯 My Building Philosophy
+Recent Stuff
 
-Don't just learn technology.
-Use it to build something people can use.
+Building AI-powered products that solve practical problems instead of staying as demos.
 
-I like taking an idea, turning it into a prototype, testing it, breaking it, improving it, and shipping the next version.
+Experimenting with agentic systems, automation, and modern developer workflows.
 
-Always learning. Always building.
+Exploring the intersection of AI, cybersecurity, software, and product design.
 
-🌐 Find Me
+Participating in hackathons and technology-focused events to turn ideas into working prototypes.
 
-<p align="center">
-  <a href="https://github.com/aDiii1633">GitHub</a> •
-  <a href="https://www.linkedin.com/in/aditya-kumar-00b36637b/">LinkedIn</a> •
-  <a href="https://x.com/btwimadii">X / Twitter</a> •
-  <a href="https://docs247.in">Website</a>
-</p>
+Outside the Terminal
 
-<div align="center">
+I like working on ideas that sit outside a single category. Sometimes that means building a product, sometimes shaping an interface, sometimes experimenting with a new technology, and sometimes just learning something because it looks interesting.
 
-💡 Build useful things. Learn relentlessly. Ship.
+Different problem, same loop:
 
-<img src="https://komarev.com/ghpvc/?username=aDiii1633&style=flat-square&color=blue" alt="Profile views"/>
+imagine it,
 
-</div>
+build a rough version,
+
+test it,
+
+fix the part that breaks,
+
+repeat until it works.
+
+Links
+
+GitHub: aDiii1633
+
+LinkedIn: Aditya Kumar
+
+X: @btwimadii
+
+Website: docs247.in
+
+Tiny Philosophy
+
+Build the idea.
+Test the idea.
+Learn from what actually happened.
+Ship the useful parts.
+Repeat until the idea becomes real.
+
+And yes, I am probably building another project right after this one.
