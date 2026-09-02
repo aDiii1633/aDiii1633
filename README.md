@@ -1,110 +1,81 @@
-Aditya
+# Aditya Kumar (aDiii1633)
 
-Building practical AI products, digital experiences, and software — with a strong interest in cybersecurity and technology that actually ships.
+Building practical AI products, reliable developer tools, and secure software — with a focus on shipping useful, real-world systems.
 
-Hi, I am Aditya. I build things, experiment with ideas, and enjoy turning ambitious concepts into products people can actually use.
+---
 
-Most of my work lives around:
+## About
 
-Artificial Intelligence - AI applications, intelligent assistants, agentic workflows, and practical systems built around real-world problems.
+Hi — I’m Aditya. I turn ambitious ideas into working products. I enjoy prototyping, experimenting with agentic workflows, and building solutions that solve real problems instead of remaining demos.
 
-Cybersecurity - security-focused development, secure product thinking, and exploring how intelligent systems can be built responsibly.
+Areas I work on:
 
-Developer tools & software - full-stack applications, automation, useful tools, and systems that remove friction.
+- Artificial Intelligence: AI applications, intelligent assistants, agentic workflows and practical systems for real-world problems.
+- Cybersecurity: secure-by-design development, responsible AI, and product thinking with security in mind.
+- Developer tools & software: full‑stack apps, automation, and tools that remove friction.
+- Experiments & design: UI/UX prototypes, creative projects, and rapid hackathon builds.
 
-Builder side quests - UI/UX experiments, product concepts, hackathons, creative projects, and whatever technical rabbit hole gets interesting.
+---
 
-Current Stuff
+## Current work
 
-SafeCareer AI
+- **SafeCareer AI** — AI-powered career exploration platform that helps users discover career paths, make decisions, and take concrete next steps.
+- **Election Process Education Assistant** — An AI-driven platform that simplifies and explains India’s electoral process so it's easier to understand and act on.
 
-Finding a career path should feel less confusing and more actionable.
+(Short descriptions — see project links below for details.)
 
-SafeCareer AI is an AI-powered career exploration platform designed to help users understand their options and make better-informed career decisions.
+---
 
-Election Process Education Assistant
+## Featured projects
 
-Understanding the electoral process should not require digging through scattered information.
+- **Comet Agent** — Experiments with agentic workflows to automate practical tasks.
+- **iQOO Sixth Sense** — Interactive product/experience concept.
+- **Carbon Soul** — Creative technology and digital product experiments.
+- **TUTEDUDE-PYTHON** — Collection of Python assignments, learning experiments, and examples.
 
-Election Process Education Assistant is an AI-powered platform designed to make information about India's electoral process easier to understand, navigate, and access.
+---
 
-Featured Work
+## Education
 
-Project
+- Indian Institute of Technology, Patna (IIT Patna)
+  - Undergraduate — AI & Cybersecurity
 
-What it is
+---
 
-SafeCareer AI
+## Skills & Interests
 
-AI-powered career exploration and guidance platform.
+- Machine learning, LLMs, agents
+- Python, full-stack development, automation
+- Cybersecurity, secure development practices
+- Product design, prototyping, UX experiments
 
-Election Process Education Assistant
+---
 
-AI-powered educational platform for understanding India's electoral process.
+## Outside the terminal
 
-iQOO Sixth Sense
+I like building things that cross categories: sometimes a product, sometimes a design experiment, sometimes a researchy prototype. My loop:
 
-Technology and product concept built around an interactive digital experience.
+1. Imagine it
+2. Build a rough version
+3. Test it
+4. Fix what breaks
+5. Repeat until it works
 
-Comet Agent
+---
 
-An AI-agent focused experiment exploring practical agentic workflows.
+## Links
 
-Carbon Soul
+- GitHub: https://github.com/aDiii1633
+- LinkedIn: https://www.linkedin.com/in/adityakumar/  
+- X: https://x.com/btwimadii  
+- Website: https://docs247.in
 
-A creative technology and digital product experiment.
+---
 
-TUTEDUDE-PYTHON
+## Want to collaborate?
 
-Python assignments, tasks, and learning experiments.
+If you have an idea, a project, or want to work together — open an issue on any of the related repos or reach out on LinkedIn/X. I’m always open to discussions about building useful AI products and secure systems.
 
-Education
+---
 
-Indian Institute of Technology, Patna (IIT Patna)
-Undergraduate student in AI & Cybersecurity.
-
-Recent Stuff
-
-Building AI-powered products that solve practical problems instead of staying as demos.
-
-Experimenting with agentic systems, automation, and modern developer workflows.
-
-Exploring the intersection of AI, cybersecurity, software, and product design.
-
-Participating in hackathons and technology-focused events to turn ideas into working prototypes.
-
-Outside the Terminal
-
-I like working on ideas that sit outside a single category. Sometimes that means building a product, sometimes shaping an interface, sometimes experimenting with a new technology, and sometimes just learning something because it looks interesting.
-
-Different problem, same loop:
-
-imagine it,
-
-build a rough version,
-
-test it,
-
-fix the part that breaks,
-
-repeat until it works.
-
-Links
-
-GitHub: aDiii1633
-
-LinkedIn: Aditya Kumar
-
-X: @btwimadii
-
-Website: docs247.in
-
-Tiny Philosophy
-
-Build the idea.
-Test the idea.
-Learn from what actually happened.
-Ship the useful parts.
-Repeat until the idea becomes real.
-
-And yes, I am probably building another project right after this one.
+Tiny philosophy: Build, test, learn, ship. Repeat.
