@@ -24,14 +24,11 @@ Hi — I’m Aditya. I turn ambitious ideas into working products: prototyping, 
 
 ## Featured work
 
-| Project | What it is |
-| --- | --- |
-| SafeCareer AI | AI-powered career exploration and guidance platform focused on actionable next steps. |
-| Election Process Education Assistant | Educational assistant that simplifies India's electoral process and how to participate. |
-| Comet Agent | Experiments with agentic workflows to automate practical, real-world tasks. |
-| iQOO Sixth Sense | Interactive product/experience concept and prototype. |
-| Carbon Soul | Creative-technology experiments and digital product prototypes. |
-| TUTEDUDE-PYTHON | Collection of Python assignments, tasks, and learning experiments. |
+1. **DRISHTI**
+2. **COMET**
+3. **AIRDNA**
+4. **PIXR (HEYCLICKKY)**
+5. **ELECTION EDUCATION**
 
 ---
 
